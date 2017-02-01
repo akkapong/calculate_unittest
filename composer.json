@@ -1,0 +1,11 @@
+{
+  "name" : "Unittest",
+  "description" : "Example unittest code",
+  "version" : "1.0.0",
+  "require" : {
+    "phpunit/phpunit": "5.5.*"
+  },
+  "require-dev": {
+    "mockery/mockery": "dev-master"
+  }
+}
